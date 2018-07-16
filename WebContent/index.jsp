@@ -11,12 +11,12 @@
     <form action="SumaServlet" method="POST">
 
         <P>
-            <label for="txtNumero1">Introduce un numero</label>
+            <label for="txtNumero1">Introduce un numero: </label>
             <input type="text" id="txtNumero1" name="txtNumero1" required>
         </P>
         
         <P>
-                <label for="txtNumero2">Introduce un numero</label>
+                <label for="txtNumero2">Introduce un numero: </label>
                 <input type="text" id="txtNumero2" name="txtNumero2" required>
         </P>
 
